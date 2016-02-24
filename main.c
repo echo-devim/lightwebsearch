@@ -46,7 +46,7 @@ gboolean on_inputtext_key_press_event (GtkSearchEntry *searchentry, GdkEvent *ev
 	char cmd[300];
 	switch (((GdkEventKey*)event)->keyval)
   	{
-    	case GDK_KEY_Escape:
+		case GDK_KEY_Escape:
     		quit ();
     		break;
     	case GDK_KEY_Return:
@@ -55,9 +55,9 @@ gboolean on_inputtext_key_press_event (GtkSearchEntry *searchentry, GdkEvent *ev
     		sprintf (cmd, "nohup %s --new-tab \"%s/?q=%s\" > /dev/null &", BROWSER, SEARCH_ENGINE, (char*)query);
     		system(cmd);
     		quit ();
-    		break;    	
-    }
-    return FALSE;
+    		break;
+  	}
+	return FALSE;
 }
 
 static GtkWidget*
@@ -89,7 +89,6 @@ create_window (void)
         }
 
 	g_object_unref (builder);
-
 	
 	return window;
 }
