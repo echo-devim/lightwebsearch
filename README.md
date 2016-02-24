@@ -4,7 +4,6 @@ LightWebSearch is a simple tool written using GTK+/C to made a quick internet se
 
 This tool is really lightweight, its size is **lesser than 15KB**!
 
-----------
 
 ## Screenshot
 
@@ -15,7 +14,6 @@ Download all the files in a folder, open a terminal in that folder and run `inst
 
 > **Note:** You must add a shortcut on your own.
 
-#### <i class="icon-file"></i> Create a document
 
 ## License
 
