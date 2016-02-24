@@ -12,7 +12,7 @@ This tool is really lightweight, its size is **lesser than 15KB**!
 ## Instructions
 Download all the files in a folder, open a terminal in that folder and run `install.sh`.
 
-> **Note:** You must add a shortcut on your own.
+> **Note:** You must add a keyboard shortcut on your own.
 
 
 ## License
