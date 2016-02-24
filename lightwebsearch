@@ -1,0 +1,3 @@
+#! /bin/sh
+#This is a wrapper to change the working directory to this folder (where there is internet.jpg)
+(cd /home/greg/Scrivania/Varie/Anjuta/lightwebsearch/; ./bin/lightwebsearch )
