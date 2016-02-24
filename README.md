@@ -1,6 +1,6 @@
 # LightWebSearch
 
-LightWebSearch is a simple tool written in C to made a quick internet search. I developed it to integrate this tool with my dekstop environment, infact I created a custom shortcut to launch this program.
+LightWebSearch is a simple tool written using GTK+/C to made a quick internet search. I developed it to integrate this tool with my dekstop environment, infact I created a custom shortcut to launch this program.
 
 This tool is really lightweight, its size is **lesser than 15KB**!
 
