@@ -8,7 +8,7 @@ This tool is really lightweight, its size is **lesser than 15KB**!
 
 ## Screenshot
 
-![screenshot](/)
+![screenshot](https://raw.githubusercontent.com/echo-devim/lightwebsearch/master/screenshot/lightwebsearch.png)
 
 ## Instructions
 Download all the files in a folder, open a terminal in that folder and run `install.sh`.
